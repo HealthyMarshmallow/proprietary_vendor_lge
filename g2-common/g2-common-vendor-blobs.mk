@@ -195,6 +195,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lge/g2-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/lge/g2-common/proprietary/bin/mpdecision:system/bin/mpdecision \
+    vendor/lge/g2-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/lge/g2-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/lge/g2-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/g2-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
